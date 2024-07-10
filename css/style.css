@@ -1,32 +1,6 @@
-/* section{
-    background-color: #ccc;
-    width: 10px;
-    height: 10px;
-    margin: auto;
+html{
+    scroll-behavior: smooth;
 }
-
-.item{
-    display: none;
-}
-
-.desc{
-    display: none;
-}
-h2{
-    display: none;
-} */
-
-
-/* img{
-    float: left;
-    cursor: pointer;
- } */
-
-
-
-/* section{
-    background-color: #861a1a;
-    /* height: 100%;} */
 
 
 
